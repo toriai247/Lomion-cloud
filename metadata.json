@@ -1,0 +1,9 @@
+{
+  "name": "Cloud Lomion",
+  "description": "Multi-host cloud video management, direct & remote upload, and embed/stream link generation console by Naxxivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
